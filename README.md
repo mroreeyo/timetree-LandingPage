@@ -6,7 +6,7 @@
 
 아래 링크를 통해 배포된 페이지를 확인할 수 있습니다.
 
-**[https://timetree-landing-page-owpixwr4w-mroreeyos-projects.vercel.app/](https://timetree-landing-page-owpixwr4w-mroreeyos-projects.vercel.app/)**
+**[https://timetree-landing-page.vercel.app/](https://timetree-landing-page.vercel.app/)**
 
 ## ✨ 주요 기능 및 사용 기술
 
