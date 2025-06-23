@@ -3,10 +3,8 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { 
-  Users, 
   Bell, 
   ListChecks, 
-  MessageSquare, 
   Share2, 
   Download,
   Apple,
@@ -118,7 +116,7 @@ export default function Home() {
                             <div className="flex mb-2">
                                 {[...Array(5)].map((_, i) => <Star key={i} className="h-5 w-5 text-yellow-400 fill-current" />)}
                             </div>
-                            <p className="mb-4">"This app is so cute and easy to use and the fact that we get notifications whenever the other person makes an event is awesome!"</p>
+                            <p className="mb-4">&quot;This app is so cute and easy to use and the fact that we get notifications whenever the other person makes an event is awesome!&quot;</p>
                             <p className="font-semibold">- Jaid F.</p>
                         </CardContent>
                     </Card>
@@ -127,7 +125,7 @@ export default function Home() {
                             <div className="flex mb-2">
                                 {[...Array(5)].map((_, i) => <Star key={i} className="h-5 w-5 text-yellow-400 fill-current" />)}
                             </div>
-                            <p className="mb-4">"My husband and I have a collaborative calendar on it, and it's sooo helpful for sharing appointments and plans! I love how easy and simple it is."</p>
+                            <p className="mb-4">&quot;My husband and I have a collaborative calendar on it, and it&apos;s sooo helpful for sharing appointments and plans! I love how easy and simple it is.&quot;</p>
                             <p className="font-semibold">- Dakota P.</p>
                         </CardContent>
                     </Card>
@@ -136,7 +134,7 @@ export default function Home() {
                             <div className="flex mb-2">
                                 {[...Array(5)].map((_, i) => <Star key={i} className="h-5 w-5 text-yellow-400 fill-current" />)}
                             </div>
-                            <p className="mb-4">"My initial experience was great with an intuitive interface and good features. It has made our schedules so much easier to follow."</p>
+                            <p className="mb-4">&quot;My initial experience was great with an intuitive interface and good features. It has made our schedules so much easier to follow.&quot;</p>
                             <p className="font-semibold">- Chris J.</p>
                         </CardContent>
                     </Card>
